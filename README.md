@@ -1,1 +1,1 @@
-# AST4762/5765_structure
+# AST4762/5765 structure template
