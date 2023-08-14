@@ -1,1 +1,1 @@
-# phz3150_structure
+# AST4762/5765_structure
